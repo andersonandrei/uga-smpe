@@ -11,18 +11,7 @@ Une phrase sans rien
 
 Un lien vers [fun-mooc.fr](https://www.fun-mooc.fr)
 
-Une ligne de '''code'''
-
-To print some text with python, you should use the `print()` function.
-```
-print("Hello world!")
-```
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
+Une ligne de `code`
 
 # <h2> Sous-partie 2 : listes
 
@@ -42,6 +31,8 @@ As Kanye West said:
 
 # <h2> Sous-partie 3 : code
 
-> # Extrait de code
+```
+ # Extrait de code
+```
 
 
