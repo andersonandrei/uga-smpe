@@ -1,6 +1,5 @@
 # uga-smpe
-
-<h2> Partie 1
+# <h2> Partie 1
 
 
 
