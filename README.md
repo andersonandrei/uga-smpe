@@ -1,24 +1,15 @@
 # uga-smpe
 # <h2> Partie 1
 
+# <h1> Sous-partie 1 : texte
 
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-
-
-
-Sous-partie 1 : texte
 Une phrase sans rien
-Une phrase en italique
-Une phrase en gras
-Un lien vers fun-mooc.fr
+*Une phrase en italique*
+**Une phrase en gras**
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+Un lien vers [fun-mooc.fr]
 Une ligne de code
 Sous-partie 2 : listes
 Liste à puce
