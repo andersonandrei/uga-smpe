@@ -17,11 +17,11 @@ Une ligne de '''code'''
 
 **Liste à puce**
 
--item
-	-sous-item
-	-sous-item
--item
--item
+- item
+	- sous-item
+	- sous-item
+- item
+- item
 
 **Liste numérotée**
 
@@ -31,6 +31,6 @@ Une ligne de '''code'''
 
 # <h1> Sous-partie 3 : code
 
-> Extrait de code
+> # Extrait de code
 
 
