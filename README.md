@@ -1,7 +1,7 @@
 
 # <h1> Partie 1
 
-# <h1> Sous-partie 1 : texte
+# <h2> Sous-partie 1 : texte
 
 Une phrase sans rien
 
@@ -13,7 +13,7 @@ Un lien vers [fun-mooc.fr](https://www.fun-mooc.fr)
 
 Une ligne de '''code'''
 
-# <h1> Sous-partie 2 : listes
+# <h2> Sous-partie 2 : listes
 
 **Liste à puce**
 
@@ -29,7 +29,7 @@ Une ligne de '''code'''
 2. item
 3. item
 
-# <h1> Sous-partie 3 : code
+# <h2> Sous-partie 3 : code
 
 > # Extrait de code
 
