@@ -13,6 +13,17 @@ Un lien vers [fun-mooc.fr](https://www.fun-mooc.fr)
 
 Une ligne de '''code'''
 
+To print some text with python, you should use the `print()` function.
+```
+print("Hello world!")
+```
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
 # <h2> Sous-partie 2 : listes
 
 **Liste à puce**
