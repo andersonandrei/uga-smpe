@@ -1,4 +1,4 @@
-# uga-smpe
+
 # <h2> Partie 1
 
 # <h1> Sous-partie 1 : texte
