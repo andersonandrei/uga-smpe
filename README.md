@@ -3,6 +3,18 @@
 <h2> Partie 1
 
 
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+
+
+
 Sous-partie 1 : texte
 Une phrase sans rien
 Une phrase en italique
